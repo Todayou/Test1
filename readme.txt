@@ -9,3 +9,5 @@ first day：test
 2018/10/11
 creating a d new branch is quick.
 创造一个新分支很快。
+
+Creating a new branch is quick and simple.
