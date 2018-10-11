@@ -10,4 +10,4 @@ first day：test
 creating a d new branch is quick.
 创造一个新分支很快。
 
-Creating a new branch is quick and sinple.
+Creating a new branch is quick & sinple.
